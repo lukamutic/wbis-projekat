@@ -70,7 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 to run this app on your local: <br>
  (have to be installed = composer, laravel, node and npm) <br>
- php artisan serve   <br>
- npm run dev <br>
+ <code>php artisan serve</code>   <br>
+ <code>npm run dev</code> <br>
 
 
