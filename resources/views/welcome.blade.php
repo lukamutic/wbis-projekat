@@ -9,9 +9,9 @@
                 <div class="container">
                     <h2>Najnovije iz sveta fotografije</h2>
                     <section class="posts">
-                        <article class="post my-4">
+                        <article class="post">
                             <a href="#">
-                                <img class="w-50 mb-3"
+                                <img class="mb-3"
                                      src="https://images.ctfassets.net/hrltx12pl8hq/5596z2BCR9KmT1KeRBrOQa/4070fd4e2f1a13f71c2c46afeb18e41c/shutterstock_451077043-hero1.jpg"
                                      alt="">
                                 <h3>Lorem ipsum dolor sit amet</h3>
