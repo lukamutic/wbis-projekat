@@ -1,0 +1,19 @@
+//COLORS:
+
+$main-accent-color: #E6A041;
+$bg-color: #F1F9F8;
+$dark-note: #1C1815;
+
+
+body {
+    color: $dark-note;
+}
+
+a {
+    text-decoration: none;
+    color: $dark-note;
+
+    &:hover {
+        color: $main-accent-color;
+    }
+}
