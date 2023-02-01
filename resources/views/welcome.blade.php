@@ -7,7 +7,7 @@
             <div class="logged-in">
 
                 <div class="container">
-                    <h2>Najnovije iz sveta fotografije</h2>
+                    <h2 class="fw-bolder">Najnovije iz sveta fotografije</h2>
                     <section class="posts">
                         <article class="post">
                             <a href="#">
